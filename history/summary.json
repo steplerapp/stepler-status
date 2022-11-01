@@ -76,19 +76,19 @@
     "url": "https://api.dev-stepler.io/v2/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.dev-stepler.io.ico",
     "slug": "stepler-api-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 292,
-    "timeWeek": 389,
-    "timeMonth": 390,
-    "timeYear": 390,
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
+    "time": 385,
+    "timeDay": 300,
+    "timeWeek": 384,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {
-      "2022-11-01": 0
+      "2022-11-01": 58
     }
   }
 ]
