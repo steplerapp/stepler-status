@@ -40,10 +40,10 @@
     "url": "https://admin.stepler.io/auth/sign-in",
     "icon": "https://icons.duckduckgo.com/ip3/admin.stepler.io.ico",
     "slug": "stepler-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
@@ -51,7 +51,9 @@
     "timeWeek": 452,
     "timeMonth": 425,
     "timeYear": 423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-22": 1
+    }
   },
   {
     "name": "Stepler API - Staging",
