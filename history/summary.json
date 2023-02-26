@@ -40,19 +40,19 @@
     "url": "https://admin.stepler.io/auth/sign-in",
     "icon": "https://icons.duckduckgo.com/ip3/admin.stepler.io.ico",
     "slug": "stepler-admin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 314,
-    "timeWeek": 405,
-    "timeMonth": 427,
-    "timeYear": 422,
+    "time": 421,
+    "timeDay": 310,
+    "timeWeek": 394,
+    "timeMonth": 423,
+    "timeYear": 421,
     "dailyMinutesDown": {
-      "2023-02-26": 0
+      "2023-02-26": 9
     }
   },
   {
