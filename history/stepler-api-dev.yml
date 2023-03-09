@@ -1,7 +1,7 @@
 url: https://api.dev-stepler.io/v2/health
-status: down
-code: 503
-responseTime: 463
-lastUpdated: 2023-03-09T13:29:39.654Z
+status: up
+code: 200
+responseTime: 507
+lastUpdated: 2023-03-09T15:16:37.583Z
 startTime: Mon Oct 24 2022 12:55:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
