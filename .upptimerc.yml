@@ -6,13 +6,13 @@ sites:
   - name: Stepler Website
     url: https://www.steplerapp.com
   - name: Stepler API
-    url: https://api.stepler.io/v2/health
+    url: https://api.stepler.io/v3/health
   - name: Stepler Admin
     url: https://admin.stepler.io/auth/sign-in
   - name: Stepler API - Staging
-    url: https://api.staging-stepler.io/v2/health
+    url: https://api.staging-stepler.io/v3/health
   - name: Stepler API - Dev
-    url: https://api.dev-stepler.io/v2/health
+    url: https://api.dev-stepler.io/v3/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
