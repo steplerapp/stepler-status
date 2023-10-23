@@ -4,18 +4,19 @@
     "url": "https://www.steplerapp.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.steplerapp.com.ico",
     "slug": "stepler-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 321,
-    "timeWeek": 317,
-    "timeMonth": 315,
+    "timeDay": 309,
+    "timeWeek": 312,
+    "timeMonth": 312,
     "timeYear": 389,
     "dailyMinutesDown": {
+      "2023-10-23": 0,
       "2023-03-10": 25
     }
   },
