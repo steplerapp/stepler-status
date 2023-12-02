@@ -1,7 +1,7 @@
 url: https://api.staging-stepler.io/v3/health
-status: up
-code: 200
-responseTime: 484
-lastUpdated: 2023-12-02T23:01:26.854Z
+status: down
+code: 503
+responseTime: 481
+lastUpdated: 2023-12-02T23:04:11.621Z
 startTime: 2022-10-24T12:55:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
