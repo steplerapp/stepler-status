@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 365,
-    "timeDay": 377,
-    "timeWeek": 292,
-    "timeMonth": 301,
+    "timeDay": 321,
+    "timeWeek": 306,
+    "timeMonth": 304,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2023-11-08": 42
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 453,
-    "timeDay": 519,
-    "timeWeek": 440,
-    "timeMonth": 455,
-    "timeYear": 445,
+    "time": 455,
+    "timeDay": 983,
+    "timeWeek": 538,
+    "timeMonth": 475,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2023-07-01": 32,
       "2023-05-24": 36
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 288,
-    "timeDay": 109,
-    "timeWeek": 164,
-    "timeMonth": 192,
+    "timeDay": 206,
+    "timeWeek": 177,
+    "timeMonth": 194,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2023-10-30": 24,
@@ -67,15 +67,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.staging-stepler.io.ico",
     "slug": "stepler-api-staging",
     "status": "up",
-    "uptime": "93.41%",
+    "uptime": "93.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "90.85%",
     "time": 461,
-    "timeDay": 620,
-    "timeWeek": 443,
-    "timeMonth": 461,
+    "timeDay": 454,
+    "timeWeek": 465,
+    "timeMonth": 465,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2024-03-06": 28,
@@ -125,15 +125,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dev-stepler.io.ico",
     "slug": "stepler-api-dev",
     "status": "up",
-    "uptime": "88.00%",
+    "uptime": "88.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "84.85%",
+    "uptimeYear": "85.13%",
     "time": 471,
-    "timeDay": 613,
-    "timeWeek": 446,
-    "timeMonth": 459,
+    "timeDay": 454,
+    "timeWeek": 463,
+    "timeMonth": 460,
     "timeYear": 487,
     "dailyMinutesDown": {
       "2024-03-06": 24,
@@ -193,8 +193,7 @@
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
-      "2023-03-19": 1440,
-      "2023-03-18": 1440
+      "2023-03-19": 1440
     }
   }
 ]
