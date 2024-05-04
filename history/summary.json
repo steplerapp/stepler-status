@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 364,
-    "timeDay": 316,
-    "timeWeek": 361,
-    "timeMonth": 325,
+    "timeDay": 315,
+    "timeWeek": 345,
+    "timeMonth": 327,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2023-11-08": 42
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 451,
-    "timeDay": 622,
-    "timeWeek": 541,
-    "timeMonth": 497,
-    "timeYear": 452,
+    "timeDay": 462,
+    "timeWeek": 512,
+    "timeMonth": 500,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2023-07-01": 32,
       "2023-05-24": 36
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 269,
-    "timeDay": 121,
-    "timeWeek": 205,
-    "timeMonth": 224,
-    "timeYear": 235,
+    "timeDay": 250,
+    "timeWeek": 217,
+    "timeMonth": 220,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-05-24": 36
@@ -67,15 +67,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.staging-stepler.io.ico",
     "slug": "stepler-api-staging",
     "status": "up",
-    "uptime": "93.98%",
+    "uptime": "93.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.23%",
-    "time": 467,
-    "timeDay": 494,
-    "timeWeek": 507,
-    "timeMonth": 479,
+    "uptimeYear": "98.51%",
+    "time": 460,
+    "timeDay": 457,
+    "timeWeek": 476,
+    "timeMonth": 483,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2024-03-06": 28,
@@ -85,8 +85,7 @@
       "2023-05-09": 496,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
-      "2023-05-06": 1440,
-      "2023-05-05": 1440
+      "2023-05-06": 1440
     }
   },
   {
@@ -95,15 +94,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dev-stepler.io.ico",
     "slug": "stepler-api-dev",
     "status": "up",
-    "uptime": "89.04%",
+    "uptime": "89.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.01%",
+    "uptimeYear": "98.28%",
     "time": 476,
-    "timeDay": 493,
-    "timeWeek": 510,
-    "timeMonth": 487,
+    "timeDay": 457,
+    "timeWeek": 480,
+    "timeMonth": 490,
     "timeYear": 500,
     "dailyMinutesDown": {
       "2024-03-06": 24,
@@ -115,8 +114,7 @@
       "2023-05-09": 496,
       "2023-05-08": 1440,
       "2023-05-07": 1440,
-      "2023-05-06": 1440,
-      "2023-05-05": 1440
+      "2023-05-06": 1440
     }
   }
 ]
