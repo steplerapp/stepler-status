@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 360,
-    "timeDay": 555,
-    "timeWeek": 372,
-    "timeMonth": 402,
-    "timeYear": 321,
+    "time": 361,
+    "timeDay": 971,
+    "timeWeek": 458,
+    "timeMonth": 423,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2023-11-08": 42
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 454,
-    "timeDay": 381,
-    "timeWeek": 424,
-    "timeMonth": 458,
+    "timeDay": 331,
+    "timeWeek": 401,
+    "timeMonth": 456,
     "timeYear": 461,
     "dailyMinutesDown": {}
   },
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 171,
-    "timeWeek": 246,
+    "timeDay": 332,
+    "timeWeek": 253,
     "timeMonth": 252,
     "timeYear": 202,
     "dailyMinutesDown": {
@@ -63,20 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.staging-stepler.io.ico",
     "slug": "stepler-api-staging",
     "status": "up",
-    "uptime": "94.92%",
+    "uptime": "94.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 459,
-    "timeDay": 385,
-    "timeWeek": 364,
+    "timeDay": 401,
+    "timeWeek": 371,
     "timeMonth": 365,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2024-03-06": 28,
-      "2023-08-30": 79,
-      "2023-08-17": 60
+      "2023-08-30": 79
     }
   },
   {
@@ -85,19 +84,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dev-stepler.io.ico",
     "slug": "stepler-api-dev",
     "status": "up",
-    "uptime": "90.76%",
+    "uptime": "90.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 489,
-    "timeDay": 644,
-    "timeWeek": 541,
-    "timeMonth": 494,
+    "timeDay": 473,
+    "timeWeek": 516,
+    "timeMonth": 493,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2024-03-06": 24,
-      "2023-08-17": 597
+      "2024-03-06": 24
     }
   }
 ]
