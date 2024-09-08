@@ -11,9 +11,9 @@
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.93%",
     "time": 372,
-    "timeDay": 388,
-    "timeWeek": 469,
-    "timeMonth": 565,
+    "timeDay": 285,
+    "timeWeek": 477,
+    "timeMonth": 571,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2024-09-03": 301,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 448,
-    "timeDay": 431,
-    "timeWeek": 442,
-    "timeMonth": 406,
+    "timeDay": 408,
+    "timeWeek": 429,
+    "timeMonth": 405,
     "timeYear": 458,
     "dailyMinutesDown": {}
   },
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 155,
-    "timeWeek": 232,
-    "timeMonth": 230,
-    "timeYear": 207,
+    "timeDay": 300,
+    "timeWeek": 236,
+    "timeMonth": 234,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2023-10-30": 24
     }
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 458,
-    "timeDay": 286,
+    "timeDay": 399,
     "timeWeek": 394,
-    "timeMonth": 376,
+    "timeMonth": 372,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2024-03-06": 28
@@ -84,16 +84,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dev-stepler.io.ico",
     "slug": "stepler-api-dev",
     "status": "up",
-    "uptime": "91.07%",
+    "uptime": "91.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 494,
-    "timeDay": 388,
-    "timeWeek": 468,
-    "timeMonth": 511,
-    "timeYear": 506,
+    "timeDay": 484,
+    "timeWeek": 467,
+    "timeMonth": 506,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2024-03-06": 24
     }
