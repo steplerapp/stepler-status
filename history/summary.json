@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 356,
-    "timeDay": 229,
-    "timeWeek": 214,
-    "timeMonth": 233,
+    "timeDay": 270,
+    "timeWeek": 222,
+    "timeMonth": 236,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2024-10-18": 36,
@@ -27,18 +27,16 @@
     "slug": "stepler-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 408,
-    "timeWeek": 812,
-    "timeMonth": 686,
-    "timeYear": 485,
-    "dailyMinutesDown": {
-      "2024-12-23": 10
-    }
+    "time": 483,
+    "timeDay": 981,
+    "timeWeek": 811,
+    "timeMonth": 736,
+    "timeYear": 489,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stepler Admin",
@@ -52,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 311,
-    "timeWeek": 300,
-    "timeMonth": 286,
+    "timeDay": 226,
+    "timeWeek": 287,
+    "timeMonth": 283,
     "timeYear": 235,
     "dailyMinutesDown": {}
   },
@@ -70,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 452,
-    "timeDay": 403,
-    "timeWeek": 392,
-    "timeMonth": 407,
+    "timeDay": 452,
+    "timeWeek": 397,
+    "timeMonth": 408,
     "timeYear": 434,
     "dailyMinutesDown": {
       "2024-03-06": 28
@@ -84,16 +82,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dev-stepler.io.ico",
     "slug": "stepler-api-dev",
     "status": "up",
-    "uptime": "92.28%",
+    "uptime": "92.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 511,
-    "timeDay": 494,
-    "timeWeek": 503,
-    "timeMonth": 503,
-    "timeYear": 488,
+    "timeDay": 658,
+    "timeWeek": 526,
+    "timeMonth": 510,
+    "timeYear": 489,
     "dailyMinutesDown": {
       "2024-03-06": 24
     }
