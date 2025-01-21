@@ -43,18 +43,20 @@
     "url": "https://admin.stepler.io/auth/sign-in",
     "icon": "https://icons.duckduckgo.com/ip3/admin.stepler.io.ico",
     "slug": "stepler-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 323,
-    "timeWeek": 295,
-    "timeMonth": 264,
-    "timeYear": 241,
-    "dailyMinutesDown": {}
+    "timeDay": 590,
+    "timeWeek": 365,
+    "timeMonth": 283,
+    "timeYear": 242,
+    "dailyMinutesDown": {
+      "2025-01-21": 0
+    }
   },
   {
     "name": "Stepler API - Staging",
@@ -82,7 +84,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dev-stepler.io.ico",
     "slug": "stepler-api-dev",
     "status": "up",
-    "uptime": "92.55%",
+    "uptime": "92.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
