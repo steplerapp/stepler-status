@@ -25,19 +25,19 @@
     "url": "https://api.stepler.io/v3/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.stepler.io.ico",
     "slug": "stepler-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "93.48%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 567,
-    "timeDay": 4422,
-    "timeWeek": 1987,
-    "timeMonth": 858,
-    "timeYear": 597,
+    "timeDay": 3495,
+    "timeWeek": 1859,
+    "timeMonth": 854,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2025-06-12": 94
+      "2025-06-12": 99
     }
   },
   {
@@ -57,7 +57,7 @@
     "timeMonth": 475,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-06-12": 1204,
+      "2025-06-12": 1209,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
@@ -207,19 +207,19 @@
     "url": "https://api.staging-stepler.io/v3/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.staging-stepler.io.ico",
     "slug": "stepler-api-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "96.51%",
-    "uptimeDay": "93.50%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
-    "time": 591,
-    "timeDay": 8876,
-    "timeWeek": 4783,
-    "timeMonth": 2063,
-    "timeYear": 629,
+    "time": 601,
+    "timeDay": 8410,
+    "timeWeek": 4847,
+    "timeMonth": 2159,
+    "timeYear": 643,
     "dailyMinutesDown": {
-      "2025-06-12": 94
+      "2025-06-12": 99
     }
   },
   {
@@ -239,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2025-06-12": 1204,
+      "2025-06-12": 1209,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
