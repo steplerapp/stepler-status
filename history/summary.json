@@ -25,18 +25,20 @@
     "url": "https://api.stepler.io/v3/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.stepler.io.ico",
     "slug": "stepler-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
-    "timeDay": 676,
-    "timeWeek": 756,
-    "timeMonth": 507,
+    "timeDay": 624,
+    "timeWeek": 733,
+    "timeMonth": 509,
     "timeYear": 567,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   },
   {
     "name": "Stepler Admin",
@@ -55,7 +57,7 @@
     "timeMonth": 475,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-06-12": 1091,
+      "2025-06-12": 1103,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
@@ -207,9 +209,9 @@
     "slug": "stepler-api-staging",
     "status": "down",
     "uptime": "96.52%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 511,
     "timeDay": 5722,
@@ -217,7 +219,7 @@
     "timeMonth": 1015,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-06-12": 0
+      "2025-06-12": 12
     }
   },
   {
@@ -237,7 +239,7 @@
     "timeMonth": 0,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2025-06-12": 1091,
+      "2025-06-12": 1103,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
