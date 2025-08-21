@@ -1,7 +1,7 @@
 url: https://www.steplerapp.com
-status: up
-code: 200
-responseTime: 416
-lastUpdated: 2025-08-21T18:51:55.884Z
+status: down
+code: 504
+responseTime: 1275
+lastUpdated: 2025-08-21T19:06:11.597Z
 startTime: 2022-10-24T12:55:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
