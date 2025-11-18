@@ -24,9 +24,9 @@
     "slug": "stepler-api",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 666,
     "timeDay": 439,
@@ -34,6 +34,7 @@
     "timeMonth": 712,
     "timeYear": 726,
     "dailyMinutesDown": {
+      "2025-11-18": 6,
       "2025-06-18": 256,
       "2025-06-12": 91
     }
@@ -260,18 +261,19 @@
     "url": "https://api.staging-stepler.io/v3/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.staging-stepler.io.ico",
     "slug": "stepler-api-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "96.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 697,
-    "timeDay": 501,
-    "timeWeek": 638,
-    "timeMonth": 718,
-    "timeYear": 796,
+    "time": 696,
+    "timeDay": 434,
+    "timeWeek": 604,
+    "timeMonth": 704,
+    "timeYear": 794,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-06-18": 305,
       "2025-06-12": 94
     }
@@ -293,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2025-11-18": 709,
+      "2025-11-18": 715,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
