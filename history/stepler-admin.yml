@@ -1,7 +1,7 @@
 url: https://admin.stepler.io/auth/sign-in
-status: down
-code: 500
-responseTime: 233
-lastUpdated: 2025-12-05T08:49:45.526Z
+status: up
+code: 200
+responseTime: 456
+lastUpdated: 2025-12-05T09:20:09.001Z
 startTime: 2022-10-24T12:55:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
