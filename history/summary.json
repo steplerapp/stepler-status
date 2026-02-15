@@ -10,8 +10,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 274,
-    "timeDay": 115,
+    "time": 273,
+    "timeDay": 205,
     "timeWeek": 179,
     "timeMonth": 191,
     "timeYear": 283,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 805,
-    "timeDay": 794,
-    "timeWeek": 822,
-    "timeMonth": 725,
-    "timeYear": 837,
+    "timeDay": 560,
+    "timeWeek": 787,
+    "timeMonth": 718,
+    "timeYear": 838,
     "dailyMinutesDown": {
       "2025-12-20": 109,
       "2025-11-18": 47,
@@ -49,15 +49,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.stepler.io.ico",
     "slug": "stepler-admin",
     "status": "up",
-    "uptime": "83.73%",
+    "uptime": "83.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "52.50%",
+    "uptimeYear": "52.77%",
     "time": 402,
-    "timeDay": 301,
-    "timeWeek": 321,
-    "timeMonth": 364,
+    "timeDay": 209,
+    "timeWeek": 310,
+    "timeMonth": 361,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2025-12-05": 30,
@@ -232,8 +232,7 @@
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
-      "2025-02-16": 1440,
-      "2025-02-15": 1440
+      "2025-02-16": 1440
     }
   },
   {
@@ -248,9 +247,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 830,
-    "timeDay": 951,
-    "timeWeek": 805,
-    "timeMonth": 731,
+    "timeDay": 557,
+    "timeWeek": 790,
+    "timeMonth": 723,
     "timeYear": 949,
     "dailyMinutesDown": {
       "2025-12-20": 80,
@@ -265,7 +264,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dev-stepler.io.ico",
     "slug": "stepler-api-dev",
     "status": "down",
-    "uptime": "64.63%",
+    "uptime": "64.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -276,7 +275,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-14": 15,
+      "2026-02-15": 15,
+      "2026-02-14": 1440,
       "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
@@ -639,8 +639,7 @@
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
-      "2025-02-16": 1440,
-      "2025-02-15": 1440
+      "2025-02-16": 1440
     }
   }
 ]
