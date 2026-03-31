@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 271,
-    "timeDay": 299,
+    "timeDay": 87,
     "timeWeek": 212,
-    "timeMonth": 182,
-    "timeYear": 278,
+    "timeMonth": 179,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2025-12-05": 30,
       "2025-11-19": 123
@@ -32,10 +32,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
     "time": 803,
-    "timeDay": 855,
-    "timeWeek": 670,
-    "timeMonth": 664,
-    "timeYear": 828,
+    "timeDay": 747,
+    "timeWeek": 651,
+    "timeMonth": 667,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2026-02-28": 16,
       "2025-12-20": 109,
@@ -50,16 +50,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.stepler.io.ico",
     "slug": "stepler-admin",
     "status": "up",
-    "uptime": "84.30%",
+    "uptime": "84.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "64.55%",
-    "time": 405,
-    "timeDay": 363,
-    "timeWeek": 300,
-    "timeMonth": 306,
-    "timeYear": 437,
+    "uptimeYear": "64.82%",
+    "time": 406,
+    "timeDay": 457,
+    "timeWeek": 320,
+    "timeMonth": 311,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2026-02-28": 16,
       "2025-12-05": 30,
@@ -190,8 +190,7 @@
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
-      "2025-04-01": 1440,
-      "2025-03-31": 1440
+      "2025-04-01": 1440
     }
   },
   {
@@ -200,15 +199,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.staging-stepler.io.ico",
     "slug": "stepler-api-staging",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
-    "time": 858,
-    "timeDay": 684,
-    "timeWeek": 700,
-    "timeMonth": 702,
+    "time": 859,
+    "timeDay": 767,
+    "timeWeek": 699,
+    "timeMonth": 704,
     "timeYear": 953,
     "dailyMinutesDown": {
       "2026-02-28": 16,
@@ -224,10 +223,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dev-stepler.io.ico",
     "slug": "stepler-api-dev",
     "status": "down",
-    "uptime": "62.36%",
+    "uptime": "62.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 513,
     "timeDay": 0,
@@ -235,7 +234,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-30": 19,
+      "2026-03-31": 18,
+      "2026-03-30": 1440,
       "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
@@ -598,8 +598,7 @@
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
-      "2025-04-01": 1440,
-      "2025-03-31": 1440
+      "2025-04-01": 1440
     }
   }
 ]
