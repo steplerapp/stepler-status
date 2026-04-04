@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 271,
-    "timeDay": 178,
-    "timeWeek": 222,
-    "timeMonth": 182,
+    "timeDay": 119,
+    "timeWeek": 200,
+    "timeMonth": 178,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2025-12-05": 30,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 804,
-    "timeDay": 478,
-    "timeWeek": 651,
-    "timeMonth": 674,
+    "timeDay": 510,
+    "timeWeek": 639,
+    "timeMonth": 671,
     "timeYear": 830,
     "dailyMinutesDown": {
       "2026-02-28": 16,
@@ -50,15 +50,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.stepler.io.ico",
     "slug": "stepler-admin",
     "status": "up",
-    "uptime": "84.35%",
+    "uptime": "84.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.65%",
+    "uptimeYear": "65.92%",
     "time": 407,
-    "timeDay": 536,
-    "timeWeek": 430,
-    "timeMonth": 336,
+    "timeDay": 287,
+    "timeWeek": 427,
+    "timeMonth": 332,
     "timeYear": 436,
     "dailyMinutesDown": {
       "2026-02-28": 16,
@@ -186,8 +186,7 @@
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
-      "2025-04-05": 1440,
-      "2025-04-04": 1440
+      "2025-04-05": 1440
     }
   },
   {
@@ -202,9 +201,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 861,
-    "timeDay": 686,
-    "timeWeek": 718,
-    "timeMonth": 719,
+    "timeDay": 598,
+    "timeWeek": 710,
+    "timeMonth": 716,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2026-02-28": 16,
@@ -220,18 +219,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dev-stepler.io.ico",
     "slug": "stepler-api-dev",
     "status": "down",
-    "uptime": "62.16%",
+    "uptime": "62.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 512,
+    "time": 513,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-03": 18,
+      "2026-04-04": 17,
+      "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
@@ -594,8 +594,7 @@
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
-      "2025-04-05": 1440,
-      "2025-04-04": 1440
+      "2025-04-05": 1440
     }
   }
 ]
