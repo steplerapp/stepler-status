@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 268,
-    "timeDay": 136,
-    "timeWeek": 158,
-    "timeMonth": 178,
+    "timeDay": 264,
+    "timeWeek": 181,
+    "timeMonth": 181,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2025-12-05": 30,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 799,
-    "timeDay": 844,
-    "timeWeek": 637,
+    "time": 791,
+    "timeDay": 625,
+    "timeWeek": 649,
     "timeMonth": 653,
-    "timeYear": 830,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2026-02-28": 16,
       "2025-12-20": 109,
@@ -50,15 +50,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.stepler.io.ico",
     "slug": "stepler-admin",
     "status": "up",
-    "uptime": "84.52%",
+    "uptime": "84.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.48%",
-    "time": 411,
-    "timeDay": 372,
-    "timeWeek": 409,
-    "timeMonth": 389,
+    "uptimeYear": "69.76%",
+    "time": 412,
+    "timeDay": 468,
+    "timeWeek": 435,
+    "timeMonth": 396,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2026-02-28": 16,
@@ -172,8 +172,7 @@
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
-      "2025-04-19": 1440,
-      "2025-04-18": 1440
+      "2025-04-19": 1440
     }
   },
   {
@@ -187,10 +186,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 868,
-    "timeDay": 785,
-    "timeWeek": 666,
-    "timeMonth": 691,
+    "time": 869,
+    "timeDay": 950,
+    "timeWeek": 716,
+    "timeMonth": 702,
     "timeYear": 952,
     "dailyMinutesDown": {
       "2026-02-28": 16,
@@ -206,7 +205,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dev-stepler.io.ico",
     "slug": "stepler-api-dev",
     "status": "down",
-    "uptime": "61.47%",
+    "uptime": "61.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -217,7 +216,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-17": 23,
+      "2026-04-18": 20,
+      "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
       "2026-04-14": 1440,
@@ -580,8 +580,7 @@
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
-      "2025-04-19": 1440,
-      "2025-04-18": 1440
+      "2025-04-19": 1440
     }
   }
 ]
